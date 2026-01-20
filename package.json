@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-suite-hr",
+  "version": "0.1.0",
+  "description": "WebWaka hr suite - runtime",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
